@@ -1,3 +1,4 @@
+# app.py: Main Streamlit app for Movie/Drama Story Summarizer. Creates UI to input movie/drama titles, calls summarizer.py to fetch and process Wikipedia data, displays auto-corrected title, plot, genre, year. Supports Enter key, loads in ~1-2s.
 import streamlit as st
 from summarizer import get_summary
 

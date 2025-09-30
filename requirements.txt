@@ -1,0 +1,6 @@
+wikipedia
+sumy
+nltk
+streamlit
+fuzzywuzzy
+python-Levenshtein
